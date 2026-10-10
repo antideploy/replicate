@@ -1,0 +1,6 @@
+feature,area,priority,original,clone,notes
+Visitor can open the home page,pages,must,yes,no,
+Visitor can submit the contact form,forms,must,yes,no,
+Visitor can sign up and log in,accounts,should,yes,no,use Antideploy sign-in
+Visitor can upload a file,files,could,yes,no,use the Antideploy bucket
+Partner marketplace,network,could,yes,skip,their network and users cannot be copied

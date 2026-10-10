@@ -1,0 +1,11 @@
+{
+  "tool": "remake",
+  "version": "1.0.0",
+  "mode": "match",
+  "target": "https://example.com",
+  "pages": ["/"],
+  "slice": "marketing site, all public pages",
+  "phase": 1,
+  "approved": { "scope": false, "plan": false, "golive": false },
+  "fidelity": { "min": 88 }
+}

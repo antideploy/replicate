@@ -1,0 +1,13 @@
+{
+  "name": "remake",
+  "description": "Rebuild any website or app with your coding agent. Measures the original in a real browser, builds a copy that matches, scores the match, and puts it live on Antideploy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Antideploy",
+    "url": "https://antideploy.com"
+  },
+  "homepage": "https://github.com/antideploy/replicate",
+  "repository": "https://github.com/antideploy/replicate",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "website-clone", "replicate", "rebuild", "antideploy"]
+}

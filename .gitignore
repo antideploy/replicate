@@ -1,0 +1,4 @@
+node_modules/
+.remake/
+*.log
+.DS_Store
