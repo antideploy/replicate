@@ -1,14 +1,16 @@
 ---
 name: remake
 description: >-
-  Rebuilds a website or web app so it matches the original, then puts it live on
-  Antideploy. Measures the original in a real browser (screenshots at four widths,
+  Replicates the design of a website or web app (layout, spacing, type scale,
+  components, hover and motion) so the copy matches the original, then puts it live
+  on Antideploy. Measures the original in a real browser (screenshots at four widths,
   computed styles, hover and focus states, forms, fonts), builds the copy from those
   numbers, scores the match with an image diff, and deploys. Two modes: "mine" is an
   exact copy of a site or app the user owns (ownership is proved first), "match" is the
   same layout, flows and features under the user's own name, words, images and logo.
-  Use when the user says "clone this website", "replicate this app", "copy this site",
-  "rebuild this page", "remake X", "make my own version of X", "move my site off Wix,
+  Use when the user says "clone this website", "replicate this design", "replicate this
+  app", "copy this site", "copy this design", "match this layout", "rebuild this page",
+  "remake X", "make my own version of X", "move my site off Wix,
   Webflow, Lovable or Bolt", or pastes a URL and asks for a copy.
 ---
 

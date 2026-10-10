@@ -1,6 +1,6 @@
 # Remake
 
-Tell your coding agent which website or app to rebuild. It measures the original in a real browser, builds a copy from the numbers, scores how close it is, and puts it live.
+Replicate the design of any website or app with your coding agent. It measures the design in a real browser (layout, spacing, type, components, hover and motion), rebuilds it from the numbers, scores how close the copy is, and puts it live.
 
 Free. MIT. No API key. Made by [Antideploy](https://antideploy.com).
 
@@ -13,6 +13,20 @@ Set this project up to deploy on Antideploy. Fetch https://antideploy.com/agent.
 ```
 
 Your agent connects to Antideploy and sets up the app, plus the database, sign-in, file storage and email it needs. You open one link and click Approve. You get a live address. No card, no trial clock.
+
+## What "replicate a design" means
+
+Remake copies how something is designed: the layout and grid, the spacing and type scale, the shape and states of every component, how the page changes from desktop to phone, and how it moves on hover and focus. It measures all of that in a real browser instead of guessing from a screenshot, then checks its own copy against the original with a diff.
+
+| It replicates the design | It does not copy (match mode) |
+| --- | --- |
+| layout, grid and the order of sections | the name, logo and wordmark |
+| spacing scale, type scale, radii, shadows | the words |
+| buttons, inputs, cards, nav and their states | photos and illustrations |
+| how it reflows at four widths | proprietary fonts and the signature accent colour |
+| hover, focus and motion timing | the original's code |
+
+Use it to build your own version of a design you admire, to rebuild a site you own on a new host, or to turn a reference page into a working starting point. On a site you own (mine mode) it copies everything, exactly.
 
 ## Install
 

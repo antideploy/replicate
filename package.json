@@ -1,7 +1,7 @@
 {
   "name": "antideploy-remake",
   "version": "1.0.0",
-  "description": "Remake: a coding-agent skill that rebuilds a website or app to match the original, scores the match, and puts it live on Antideploy.",
+  "description": "Remake: a coding-agent skill that replicates the design of a website or app, scores the match, and puts it live on Antideploy.",
   "type": "module",
   "license": "MIT",
   "repository": "https://github.com/antideploy/replicate",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "remake",
-  "description": "Remake: rebuild any website or app with your coding agent and put it live on Antideploy.",
+  "description": "Remake: replicate the design of any website or app with your coding agent and put it live on Antideploy.",
   "owner": {
     "name": "Antideploy",
     "url": "https://antideploy.com"
